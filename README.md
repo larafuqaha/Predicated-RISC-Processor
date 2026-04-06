@@ -80,12 +80,10 @@ The testbench loads binary test programs into instruction memory and verifies co
 ## Tools
 
 - **HDL:** Verilog
-- **Simulation:** ModelSim / Vivado Simulator
+- **IDE / Simulation / Waveform Generation:** Aldec Active-HDL
 
 ## Team
 
-| Name |
-|---|
-| Lara Fuqaha |
-| Tawba Abdallah |
-| Dana Taher |
+- Lara Fuqaha
+- Tawba Abdallah
+- Dana Taher
